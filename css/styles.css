@@ -1,0 +1,30 @@
+* {
+	font-family: 'Ubuntu', sans-serif;;
+}
+
+.navbar-brand {
+	font-size: 2em;
+}
+
+.menuhead {
+	margin-bottom: 20px;
+}
+
+#maincontent {
+	margin-top: 20px;
+}
+
+.foodtext {
+	padding: 10px;
+	background-color: lightgray;
+	border: 2px solid black;
+}
+
+.textwrapper {
+	margin-bottom: 20px;
+}
+
+#backtotop {
+	text-decoration: none;
+	color: black;
+}
